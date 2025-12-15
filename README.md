@@ -2,20 +2,19 @@
   <img src="https://img.shields.io/badge/Bootcamp-TripleTen-blue?style=flat-square" alt="TripleTen Badge" />
 </p>
 
-<h1 align="center">Tendencias do Youtube</h1>
+<h1 align="center">Analysis of YouTube User Behavior</h1>
 
 <p align="center">
-Notebook desenvolvido durante o Bootcamp <strong>TripleTen</strong>.
+Notebook developed during the <strong>TripleTen</strong> Bootcamp. 
 </p>
 
 ---
 
-## 📄 Descrição
-Este notebook realiza a **análise** de dados utilizando **Tableau**.
-O objetivo é analisar o comportamento dos usuários do Youtube para a empresa 'Sterling & Draper', através de um dashboard. Nele conseguimos ver a variação do consumo pelas diferentes datas e países. 
+## 📄 Description
+This notebook performs data **analysis** using **Tableau**.
+The goal is to analyze the behavior of YouTube users for the company 'Sterling & Draper', through a dashboard. In it, we can see the variation in consumption across different dates and countries.
 
 ---
-
 
 ## 🛠 Tecnologias
 - Tableau
@@ -23,15 +22,16 @@ O objetivo é analisar o comportamento dos usuários do Youtube para a empresa '
 
 ---
 
-## 🚀 Como usar
-1. Abra o arquivo `https://public.tableau.com/views/DashboarddasTendnciasnoYouTube/DashboardTendnciasYoutube?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link` no navegador.
-2. Visualize os resultados do dashboard.
+## 🚀 How to use
+1. Open the file `https://public.tableau.com/views/DashboarddasTendnciasnoYouTube/DashboardTendnciasYoutube?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link` in your browser.
+2. View the dashboard results.
 
 ---
 
-## 👩‍💻 Apresentação
-A apresentação do projeto foi desenvolvido através do programa 'Canva', basta clicar no link 'https://www.canva.com/design/DAG2gTi3W0A/fN30gxxkWDMiOMXJBgtThg/view?utm_content=DAG2gTi3W0A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h36ac587774' para visualizar. 
+## 👩‍💻 Presentation
+The project presentation was developed using the 'Canva' program; simply click on the link 'https://www.canva.com/design/DAG2gTi3W0A/fN30gxxkWDMiOMXJBgtThg/view?utm_content=DAG2gTi3W0A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h36ac587774' to view it.
 
+---
 
-## ⚡ Licença
-Este projeto está sob a licença **MIT**.
+## ⚡ License
+This project is licensed under the **MIT** license.
